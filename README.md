@@ -5,6 +5,10 @@ This project analyzes recruitment data to evaluate hiring performance, recruiter
 
 The project includes data analysis, KPIs, visualizations, an interactive-style Excel dashboard, business insights, and recommendations.
 
+## Dashboard Preview
+
+![Recruitment Analytics Dashboard](recruitment_dashboard.png)
+
 ## Tools Used
 - Microsoft Excel
 - PivotTables
